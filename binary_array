@@ -11,8 +11,7 @@ public:
             {
                 s=mid+1;
             }
-            if(flag==true)
-            {
+            if(flag==true) // commentgg            {
                 end=mid-1;
                 ans=mid;
             }
