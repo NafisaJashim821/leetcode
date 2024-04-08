@@ -9,4 +9,4 @@ public:
                ans[i]  = m.lower_bound(intervals[i][1])!=end(m)?m.lower_bound(intervals[i][1]) -> second:-1;
         return ans;
     }
-};
+};  ///6th program
